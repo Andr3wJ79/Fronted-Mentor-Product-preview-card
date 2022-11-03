@@ -16,7 +16,6 @@ body {
   flex-direction: row;
   border-radius: 10px;
   position: relative;
-  margin: 20px;
 }
 
 .product {
@@ -37,12 +36,15 @@ body {
 .product-title h1 {
   color: hsl(158, 36%, 37%);
   text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 1.2rem;
+  letter-spacing: 3px;
+  font-size: 10px;
+  font-weight: 500;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .product-desc {
-  padding: 2em;
+  padding: 32px;
   font-family: "Montserrat", sans-serif;
   display: grid;
 }
