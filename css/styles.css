@@ -38,6 +38,7 @@ body {
   color: hsl(158, 36%, 37%);
   text-transform: uppercase;
   letter-spacing: 2px;
+  font-size: 1.2rem;
 }
 
 .product-desc {
