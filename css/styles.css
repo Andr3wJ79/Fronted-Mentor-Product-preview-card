@@ -33,16 +33,17 @@ body {
   background-position: bottom center;
   background-size: cover;
 }
-.product-desc {
-  padding: 2em;
-  font-family: "Montserrat", sans-serif;
-  display: grid;
-}
 
 .product-title {
   color: hsl(158, 36%, 37%);
   text-transform: uppercase;
   letter-spacing: 2px;
+}
+
+.product-desc {
+  padding: 2em;
+  font-family: "Montserrat", sans-serif;
+  display: grid;
 }
 
 .product-name,
