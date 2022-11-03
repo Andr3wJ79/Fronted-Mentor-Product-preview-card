@@ -34,7 +34,7 @@ body {
   background-size: cover;
 }
 
-.product-title {
+.product-title h1 {
   color: hsl(158, 36%, 37%);
   text-transform: uppercase;
   letter-spacing: 2px;
