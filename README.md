@@ -35,7 +35,7 @@ Positioning was also difficult, and the placement and coloring of the SVG icon.
 
 ## Author
 
-- Frontend Mentor - [@yAndr3wJ79](https://www.frontendmentor.io/profile/Andr3wJ79)
+- Frontend Mentor - [@Andr3wJ79](https://www.frontendmentor.io/profile/Andr3wJ79)
 
 ## Acknowledgments
 
